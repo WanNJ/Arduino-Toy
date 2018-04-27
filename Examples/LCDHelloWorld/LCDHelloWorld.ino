@@ -36,7 +36,7 @@ void setup() {
   lcd.setCursor(0,0);
   // Text to print on the first line.
   lcd.print(" FYQ I LOVE YOU");
-  // set cusor position to start of next line
+  // Set cusor position to start of next line.
   lcd.setCursor(0,1);
   lcd.print("   FOREVER 221");
 }
