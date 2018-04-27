@@ -1,2 +1,2 @@
 # Arduino-Toy
-Some code or notes written while learning Arduino Programming for fun.
+Some code or notes written while studying Arduino Programming for fun.
